@@ -8,3 +8,4 @@
 4. [Afifa Siddiqui](https://github.com/AfifaSidd) 24
 5. [Riyaz Shaikh](https://github.com/riyaz7122001) 41 
 6. [Safa Shaikh](https://GitHub.com/Safanaaz1234) 19
+7. [Naqi Ansari](https://github.com/CsEnox) 26
