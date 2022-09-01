@@ -5,3 +5,4 @@
 1. [Salman Sayyed](https://www.github.com/Sayyed-Salman) 40
 2. [Rehan Sayyed](https://www.github.com/rehan6658) 39 
 3. [Zainab Mirkar](https://github.com/zainabmirkar) 10
+4. [Tariq saeed] (https://github.com/Tariqs28) 34
