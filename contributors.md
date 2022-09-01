@@ -10,3 +10,4 @@
 6. [Safa Shaikh](https://GitHub.com/Safanaaz1234) 19
 7. [Naqi Ansari](https://github.com/CsEnox) 26
 8. [Aliraza Khan](https://github.com/itsarkcodes) 30
+9. [Tariq Saeed](https://github.com/Tariqs28) 34
