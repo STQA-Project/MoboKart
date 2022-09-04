@@ -9,7 +9,7 @@ for starting the frontend :
 
     your frontend will start on port 3000
 
-for startign the backend : 
+for starting the backend : 
     go in terminal type : 
     1. cd backend
     2. npm start 
