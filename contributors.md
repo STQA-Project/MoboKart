@@ -10,4 +10,10 @@
 6. [Safa Shaikh](https://GitHub.com/Safanaaz1234) 19
 7. [Naqi Ansari](https://github.com/CsEnox) 26
 8. [Aliraza Khan](https://github.com/itsarkcodes) 30
+<<<<<<< HEAD
 9. [Iqra Khan](https://github.com/Iqrakhan08)07
+=======
+9. [Tariq Saeed](https://github.com/Tariqs28) 34
+10. .[kaheesha shaikh](https://github.com/kaheesha) 18
+11. [Baig Maaruf](https://github.com/Maroof810) 27
+>>>>>>> upstream/main
