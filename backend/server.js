@@ -1,24 +1,34 @@
-require("dotenv").config();
-const express = require("express");
-const cookieParser = require("cookie-parser");
-const cors = require("cors");
-const connection = require("./database/db");
+import express from "express";
+import dotenv from "dotenv";
+import mongoose from "mongoose";
+import userRouter from "./routes/userRouter.js";
 
-//setting up the server..
+dotenv.config();
 const app = express();
-const PORT = process.env.PORT || 4000;
-app.listen(PORT, () => {
-  connection();
-  console.log(`listening on port ${PORT}`);
+
+const port = process.env.PORT || 5000;
+mongoose
+  .connect(process.env.MONGODB_URI)
+  .then(() => {
+    console.log("connected to db");
+  })
+  .catch((err) => {
+    console.log(err.message);
+  });
+
+app.listen(port, () => {
+  console.log(`serve at http://localhost:${port}`);
 });
 
+// Listen for body events
 app.use(express.json());
-app.use(cookieParser());
-app.use(
-  cors({
-    origin: ["http://localhost:3000"],
-    credentials: true,
-  })
-);
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
-// setting up the routes..
+// routes
+app.use("/api/users", userRouter);
+
+// error middleware
+app.use((err, req, res, next) => {
+  res.status(500).send({ message: err.message });
+});

@@ -14,4 +14,5 @@ for startign the backend :
     1. cd backend
     2. npm start 
 
-    your backend will start on port 5000
+    your backend will start on port 4000
+
