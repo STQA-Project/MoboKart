@@ -5,7 +5,8 @@ for more accuracy use node version 16(lts)
 for starting the frontend : 
     go in terminal type : 
     1. cd frontend
-    2. npm start
+    2. npm install
+    3. npm start
 
     your frontend will start on port 3000
 
