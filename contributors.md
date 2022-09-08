@@ -11,7 +11,7 @@
 7. [Naqi Ansari](https://github.com/CsEnox) 26
 8. [Aliraza Khan](https://github.com/itsarkcodes) 30
 9. [Tariq Saeed](https://github.com/Tariqs28) 34
-10.[kaheesha shaikh](https://github.com/kaheesha) 18
+10. [kaheesha shaikh](https://github.com/kaheesha) 18
 11. [Baig Maaruf](https://github.com/Maroof810) 27
 12. [Iqra Khan](https://github.com/Iqrakhan08) 07
 13. [Umama Sayed](https://github.com/UmamaSayed) 16
