@@ -1,18 +1,15 @@
 # MoboKart
 
-for more accuracy use node version 16(lts)
+E-commerce webstore
 
-for starting the frontend : 
-    go in terminal type : 
-    1. cd frontend
-    2. npm install
-    3. npm start
+- [Frontend Design](./designs/)
 
-    your frontend will start on port 3000
+- [Code](https://github.com/Sayyed-Salman/mobokart-app)
 
-for starting the backend : 
-    go in terminal type : 
-    1. cd backend
-    2. npm start 
+- [Testing](./testing/)
 
-    your backend will start on port 5000
+# List of Contributors
+
+1. [Design](./designs/)
+2. [Development](./development/required-resources.md)
+3. [Testing]()
