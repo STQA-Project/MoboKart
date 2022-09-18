@@ -12,4 +12,4 @@ E-commerce webstore
 
 1. [Design](./designs/)
 2. [Development](./development/required-resources.md)
-3. [Testing]()
+3. [Testing](./testing/)
