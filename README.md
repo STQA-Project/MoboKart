@@ -10,6 +10,8 @@ E-commerce webstore
 
 # List of Contributors
 
+<b>[All Contributors](./contributors.md)</b>
+
 1. [Design](./designs/)
 2. [Development](./development/required-resources.md)
 3. [Testing](./testing/)
